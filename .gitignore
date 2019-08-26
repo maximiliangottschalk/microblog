@@ -299,3 +299,4 @@ fabric.properties
 # End of https://www.gitignore.io/api/macos,flask,python,pycharm
 
 env_venv/
+app.db
