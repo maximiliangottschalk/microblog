@@ -300,3 +300,4 @@ fabric.properties
 
 env_venv/
 app.db
+logs/
